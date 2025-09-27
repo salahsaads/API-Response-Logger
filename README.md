@@ -26,7 +26,7 @@ Perfect for debugging, development, and monitoring API interactions.
 
 ```yaml
 dependencies:
-  api_response_logger: ^0.0.4
+log_type: ^0.0.4
 ```
 
 Run:
@@ -151,4 +151,4 @@ print('Lists: ${summary['List']}');
 
 👨‍💻 Author: Salah Saad
 📧 Email: [kassabksab@gmail.com](mailto:kassabksab@gmail.com)
-🐛 Issues: [GitHub Issues]
+
