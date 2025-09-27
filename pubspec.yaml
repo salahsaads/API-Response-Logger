@@ -1,5 +1,5 @@
 name: log_type
-description: "A new Flutter package project."
+description: A lightweight Flutter package for logging API responses with customizable formatting.
 version: 0.0.1
 homepage:
 
