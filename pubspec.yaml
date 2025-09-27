@@ -1,6 +1,6 @@
 name: log_type
 description: A lightweight Flutter package for logging API responses with customizable formatting.
-version: 0.0.1
+version: 0.0.4
 homepage:
 
 environment:
